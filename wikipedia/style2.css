@@ -1,0 +1,11 @@
+.menu{
+    margin-left: 50px;
+}
+.points{
+    color: blue;
+
+}
+.points:hover {
+    text-decoration: underline;
+   cursor: pointer;
+  }
